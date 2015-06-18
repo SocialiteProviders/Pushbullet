@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Pushbullet;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
